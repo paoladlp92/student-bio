@@ -1,11 +1,8 @@
-# student-bio
-
 <!DOCTYPE html>
 <html>
 
 <head>
        
-<title>Paola's Bio</title>
 <h1>Paola's Bio</h1>
 <h2>Paola de la Peña Gonzalez Larrealde Sepulveda</h2>
 </head>
